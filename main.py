@@ -3,8 +3,8 @@ with open('sample.txt') as file:
     
 
 content_capitalized = content.upper()
+
 print(content_capitalized)
 print("Bye!")
 
 print(content)
-
